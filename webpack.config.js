@@ -1,5 +1,5 @@
 /**
- * Created by Administrator on 2016/11/17.
+ * Created by chkui on 2016/11/17.
  */
 var path = require('path');
 module.exports = {
